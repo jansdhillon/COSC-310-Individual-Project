@@ -127,7 +127,7 @@ The Wikipedia API, Jwiki, gets the definition of the emotion the user is detecte
 
 ![definition](./DefinitionDemo.png)
 
-The JSoup API is also used to access and parse HTML, meaning it can access webpages and add relevant content into the bot converstaion. It is used to access another API, the Zen Quotes API, which has a database of inspirational quotes. This helps motivate the user and adds more flavour to the converstaion. Together, these APIs are used to give the converation more character and hopefully make the user feel better. ZenQuotes.io has a daily inspirational quote which is shown at the beginning of the program to set things off positive, and a random inspirational quote is shown after the user is done talking about their emotions. 
+The JSoup API is also used to access and parse HTML, meaning it can access webpages and add relevant content into the bot conversation. It is used to access another API, the Zen Quotes API, which has a database of inspirational quotes. This helps motivate the user and adds more flavour to the converstaion. Together, these APIs are used to give the conversation more character and hopefully make the user feel better. ZenQuotes.io has a daily inspirational quote which is shown at the beginning of the program to set things off positive, and a random inspirational quote is shown after the user is done talking about their emotions. 
 
 ![QuotesDemo](./QuotesDemo.png)
 ![QuotesDemo1](./QuotesDemo1.png)
