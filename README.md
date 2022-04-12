@@ -87,7 +87,7 @@ To get a local copy up and running on your local device. You must have the Java 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-To get the program running on your own computer, download the zip file, unzip it, create a new Java project (in Eclipse), and then import the downloaded unzipped folder into the project.
+To get the program running on your own computer, download the zip file, unzip it, create a new Java project (in Eclipse), and then import the downloaded unzipped folder into the project. Alternatively, run the NOVA.jar file.
 
 <!-- NEW FEATURES (A3) -->
 
